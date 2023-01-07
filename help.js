@@ -25,11 +25,11 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085806240904
+*Payment Maxis*
+Number: 60147675746
 
-*Payment Dana*
-Number: 085806240904
+*Payment Digi*
+Number: 60149431385
 
 *Payment Gopay*
 Number: ----
@@ -44,18 +44,18 @@ ${monoSpace} berapapun donasi dari kalian itu sangat berarti bagi kami ^_^${mono
 exports.infoOwner = () =>{
 return`──「 *DATA PROFIL OWNER* 」──
 
- ⬣ *Nama :* Rama 
- ⬣ *Umur :* Privv
- ⬣ *Hoby. :* Turu/Game
- ⬣ *Asal   :* Jatim - Lamongan
- ⬣ *Status:* Creator
+ ⬣ *Nama :* OwnerBotzLyn🔖 
+ ⬣ *Umur :* 15
+ ⬣ *Hoby. :* Turu/Game/Anime
+ ⬣ *Asal   :* Malaysia - Sarawak
+ ⬣ *Status:* Creator/Recode
  ⬣ *Zodiak:* Gk tau
 
                   「 *SOSIAL MEDIA*」
- ⬣ *Whatsapp:* 085791220179
- ⬣ *Youtube:* Ramaa Gnnz
- ⬣ *Github:* ---
+ ⬣ *Whatsapp:* 60189830350
+ ⬣ *Youtube:* LynnXzy ?
+ ⬣ *Github:* github.com/LynnXzy
  ⬣ *Tiktok:* ---
- ⬣ *Instagram:* ---
+ ⬣ *Instagram:* botzlynx
  `
 }
